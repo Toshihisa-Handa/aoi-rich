@@ -1,0 +1,68 @@
+
+.images-wrapper{
+  margin-top: 40px;
+}
+
+.images-area{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.upform{
+  width: 1200px;
+  margin:0 auto;
+  margin-left: 10%;
+  color: rgb(111, 135, 213);
+}
+
+.upimgBox{
+  width: 366px;
+  height: 500px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding:0;
+  background-color: rgba(129, 220, 221,0.6);
+}
+.upimgBox img{
+  width: 366px;
+  height: 360px;
+
+}
+
+.fileUp{
+  margin-top: 10px;
+  outline: 2px solid rgba(24, 6, 6, 0.3);
+  border:none;
+  background-color: rgba(44, 72, 186,0.8);
+  padding: 15px 30px;
+  color: white;
+
+}
+.fileUp:hover{
+  opacity: 0.7;
+}
+
+.Upbtn{
+  margin-top: 10px;
+  outline: 2px solid rgba(24, 6, 6, 0.3);
+  border:none;
+  background-color: transparent;
+  padding: 15px 30px;
+  color: rgb(161, 190, 214);
+
+}
+.Upbtn:hover{
+  background-color: rgba(44, 72, 186,0.3);
+  color: white;
+
+}
+
+.imgsize{
+  color:rgb(150, 150, 219);
+}
+
+.imgdelete{
+  color:rgb(8, 154, 117);
+}
